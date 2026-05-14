@@ -1,1 +1,1 @@
-This project implements and evaluates reliability of 3 opensource LLM (Llama-3.1:8b, Gemma-3:12B, GPT-OSS-20b) for stanard RAG based conversational agent to enhance citizen-centered information accessibility for public services.
+This project implements and evaluates reliability of 3 mid-size open-source LLM (Llama-3.1:8b, Gemma-3:12B, GPT-OSS-20b) for stanard RAG based conversational agent to enhance citizen-centered information accessibility for public services.
