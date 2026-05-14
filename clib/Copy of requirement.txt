@@ -1,0 +1,14 @@
+langchain_community
+langchain_experimental
+rank_bm25
+pymupdf4llm
+PyPDF2
+langchain_huggingface
+faiss-cpu
+rank_bm25
+langchain_ollama
+pypdf
+openai
+pandas
+rouge_score
+bert_score
