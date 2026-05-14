@@ -1,1 +1,1 @@
-I will upload all the code and data once my thesis has approved and passed plagiarism test; otherwise, there may be some issues as sample data and outcomes are listed on main thesis.
+This project implements and evaluates reliability of 3 opensource LLM (Llama-3.1:8b, Gemma-3:12B, GPT-OSS-20b) for stanard RAG based conversational agent to enhance citizen-centered information accessibility for public services.
